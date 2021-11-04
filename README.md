@@ -22,7 +22,7 @@ User must recompile native libraries written in C++. It needs only recompiling, 
 
 ## Example
 
-![Video Example](https://raw.githubusercontent.com/DusanTodorovic5/StockSimulator/main/VideoShowCase/example.mp4)
+[Video Example](https://youtu.be/135APmjA6kU)
 
 ## To do
 
