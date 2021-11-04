@@ -1,0 +1,8 @@
+libcurl.dll.a
+Ws2_32.lib
+Crypt32.lib
+Wldap32.lib
+Normaliz.lib
+
+#include jdk, jdk win32, curlInclude
+#library jdk lib, curlLib
