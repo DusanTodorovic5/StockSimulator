@@ -18,7 +18,7 @@ User can compile java files and add .dll libraries to the project
 
 ### Linux and Mac OS 
 
-User must recompile native libraries written in C++. It needs only recompiling, without additional dependencies as no platform specific library was used.
+User must recompile native libraries written in C++. It needs only recompiling, without additional dependencies as only dependency is [cURL](https://curl.se/) which is preinstalled in Linux and Mac OS
 
 ## Example
 
