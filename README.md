@@ -20,4 +20,11 @@ User can compile java files and add .dll libraries to the project
 
 User must recompile native libraries written in C++. It needs only recompiling, without additional dependencies as no platform specific library was used.
 
+## Example
 
+[Video Example](https://github.com/DusanTodorovic5/StockSimulator/blob/main/VideoShowCase/example.mp4)
+
+## To do
+
+ - Rewrite labels to English language.
+ - Rewrite code variable and methods to English Language
