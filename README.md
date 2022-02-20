@@ -3,7 +3,7 @@ Stock exchange simulator made in Swing using Java with logic backend in C++ givi
 
 ## Features
 
-This program implements features avaliable from my [second git repository](https://github.com/DusanTodorovic5/StockPriceSimulatorCpp)
+This program implements features avaliable from my [older stock simulator written in C++ which is also avaliable as second git repository](https://github.com/DusanTodorovic5/StockPriceSimulatorCpp)
 It also implements new features like :
  - Zoom on stock
  - Drag graph view
