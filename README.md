@@ -15,10 +15,12 @@ It also implements new features like :
 ### Windows
 
 User can compile java files and add .dll libraries to the project
+In order to compile libraries written in C/C++ you will have to add [SQLite](https://www.sqlite.org/download.html)
 
 ### Linux and Mac OS 
 
-User must recompile native libraries written in C++. It needs only recompiling, without additional dependencies as only dependency is [cURL](https://curl.se/) which is preinstalled in Linux and Mac OS
+User must recompile native libraries written in C++.
+It needs only recompiling, with additional dependencies being [cURL](https://curl.se/) which is preinstalled in Linux and Mac OS and [SQLite](https://www.sqlite.org/index.html)
 
 ## Example
 
